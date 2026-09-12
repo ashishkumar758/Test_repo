@@ -1,4 +1,4 @@
-# Hey this if from Ashish
+# Hey this is from Ashish
 
 # install
 # learn
